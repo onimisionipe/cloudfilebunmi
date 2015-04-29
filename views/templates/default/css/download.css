@@ -1,0 +1,50 @@
+/*
+Copyright (C) 2014 
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+*/
+/* 
+    Created on : Nov 26, 2014, 3:40:39 PM
+    Author     : 
+*/
+a {
+    text-decoration: none;
+}
+.drop{
+    margin-top: 120px;
+    
+}
+.downloadfile {
+    min-width: 250px;
+    color: #3498db;
+    
+    font-weight: normal;
+}
+
+.downloadfile .ext {
+    width: 100px;
+    height: 100px;
+    margin-right: 25px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 35px;
+    color: white;
+    background-color: #3498db;
+    
+}
+.clearboth{
+    clear: both;
+}
+
